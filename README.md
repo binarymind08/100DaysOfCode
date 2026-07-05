@@ -11,6 +11,8 @@
 | 003 | Second Order Statistics | Leetcode  | Medium |
 | 004 | Arrays - declaration, traversal, sum, average and max | Leetcode | Easy |
 | 005 | Best Time to Buy & Sell Stock | LeetCode | Easy |
+| 006 | Prefix Sum | LeetCode | Easy |
+| 007 | 3Sum | LeetCode | Medium |
 | 008 | Kth Smallest Element in a BST | LeetCode | Medium |
 
 
