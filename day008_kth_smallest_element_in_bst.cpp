@@ -17,7 +17,6 @@ public:
         // In-order traversal of a BST gives sorted order
         stack<TreeNode*> st;
         TreeNode* curr = root;
-        
         while (curr != nullptr || !st.empty()) {
             while (curr != nullptr) {
                 st.push(curr);
