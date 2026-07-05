@@ -11,6 +11,7 @@
 | 003 | Second Order Statistics | Leetcode  | Medium |
 | 004 | Arrays - declaration, traversal, sum, average and max | Leetcode | Easy |
 | 005 | Best Time to Buy & Sell Stock | LeetCode | Easy |
+| 008 | Kth Smallest Element in a BST | LeetCode | Medium |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
