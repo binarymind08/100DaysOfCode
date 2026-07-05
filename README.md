@@ -4,13 +4,13 @@
 
 ## 📅 Progress Tracker
 
-| Day | Problem | Platform | Difficulty | Status |
-|-----|---------|----------|------------|--------|
-| 001 | Two Sum | LeetCode | Easy | ✅ |
-| 002 | Longest Substring Without Repeating Characters | LeetCode | Medium | ✅ |
-| 003 | Second Order Statistics | Codeforces | 800 | ✅ |
-| 004 | Arrays - declaration, traversal, sum, average and max | C++ Topic | Easy | ✅ |
-| 005 | Best Time to Buy & Sell Stock | LeetCode | Easy | ✅ |
+| Day | Problem | Platform | Difficulty | 
+|-----|---------|----------|------------|
+| 001 | Two Sum | LeetCode | Easy |
+| 002 | Longest Substring Without Repeating Characters | LeetCode | Medium |
+| 003 | Second Order Statistics | Leetcode  | Medium |
+| 004 | Arrays - declaration, traversal, sum, average and max | C++ Topic | Easy |
+| 005 | Best Time to Buy & Sell Stock | LeetCode | Easy |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
