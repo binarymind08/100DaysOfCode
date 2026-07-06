@@ -15,6 +15,7 @@
 | 007 | 3Sum | LeetCode | Medium |
 | 008 | Kth Smallest Element in a BST | LeetCode | Medium |
 | 009 | Container With Most Water | LeetCode | Medium |
+| 010 | Longest Substring Without Repeating Characters | LeetCode | Medium
 
 
 ## 🎯 Goal
