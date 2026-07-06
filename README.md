@@ -14,6 +14,7 @@
 | 006 | Prefix Sum | LeetCode | Easy |
 | 007 | 3Sum | LeetCode | Medium |
 | 008 | Kth Smallest Element in a BST | LeetCode | Medium |
+| 009 | Container With Most Water | LeetCode | Medium |
 
 
 ## 🎯 Goal
