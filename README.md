@@ -17,6 +17,7 @@
 | 009 | Container With Most Water | LeetCode | Medium |
 | 010 | Longest Substring Without Repeating Characters | LeetCode | Medium|
 | 012 |  Merge Intervals | LeetCode | Medium |
+| 013 | Product of Array Except Self | LeetCode | Medium |
 
 
 ## 🎯 Goal
