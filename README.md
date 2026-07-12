@@ -18,6 +18,7 @@
 | 010 | Longest Substring Without Repeating Characters | LeetCode | Medium|
 | 012 |  Merge Intervals | LeetCode | Medium |
 | 013 | Product of Array Except Self | LeetCode | Medium |
+| 014 | Linked List Cycle | LeetCode | Easy |
 
 
 ## 🎯 Goal
