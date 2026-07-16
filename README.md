@@ -21,6 +21,7 @@
 | 014 | Linked List Cycle | LeetCode | Easy |
 | 016 | Top K Frequent Elements | LeetCode | Medium |
 | 017 |  Number of Islands | LeetCode | Medium |
+| 019 | Climbing Stairs | LeetCode | Easy |
 
 
 ## 🎯 Goal
