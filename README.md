@@ -23,7 +23,7 @@
 | 017 |  Number of Islands | LeetCode | Medium |
 | 019 | Climbing Stairs | LeetCode | Easy |
 | 019 | Coin Change | LeetCode | Medium |
-
+| 020 | Merge Two Sorted Lists | LeetCode | Easy |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
