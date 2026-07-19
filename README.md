@@ -24,6 +24,7 @@
 | 019 | Climbing Stairs | LeetCode | Easy |
 | 019 | Coin Change | LeetCode | Medium |
 | 020 | Merge Two Sorted Lists | LeetCode | Easy |
+| 021 | Pacific Atlantic Water Flow | LeetCode | Medium |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
