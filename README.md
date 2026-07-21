@@ -26,6 +26,7 @@
 | 020 | Merge Two Sorted Lists | LeetCode | Easy |
 | 021 | Pacific Atlantic Water Flow | LeetCode | Medium |
 | 022 | Graph Valid Tree | LeetCode | Medium |
+| 023 | Number of Connected Components | LeetCode | Medium |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
