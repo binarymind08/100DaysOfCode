@@ -4,6 +4,7 @@ using namespace std;
 class Solution {
 public:
     int countComponents(int n, vector<vector<int>>& edges) {
+        
         vector<int> parent(n);
         for (int i = 0; i < n; i++) parent[i] = i;
         auto find = [&](int x) {
