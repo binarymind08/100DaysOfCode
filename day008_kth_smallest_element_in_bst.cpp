@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-// Definition of binary tree node
 struct TreeNode {
     int val;
     TreeNode *left;
@@ -34,7 +33,7 @@ public:
             curr = curr->right;
         }
         
-        return -1; // shouldn't reach here if k is valid
+        return -1; 
     }
 };
 TreeNode* insert(TreeNode* root, int val) {
