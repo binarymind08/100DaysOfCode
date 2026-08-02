@@ -13,7 +13,7 @@ struct TreeNode {
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        // In-order traversal of a BST gives sorted order
+    
         stack<TreeNode*> st;
         TreeNode* curr = root;
         while (curr != nullptr || !st.empty()) {
