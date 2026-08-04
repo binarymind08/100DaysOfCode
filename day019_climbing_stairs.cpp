@@ -5,6 +5,15 @@ using namespace std;
 
 class Solution {
 public:
+int climbstaires(int n){
+    if(n<=2){
+        int prev2=1;
+        int  prev1=1;
+        for(int i=3;i>=n;i++){
+            int curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+    }
     int climbStairs(int n) {
         if (n <= 2) return n;
         
@@ -15,11 +24,16 @@ public:
             int curr = prev1 + prev2;
             prev2 = prev1;
             prev1 = curr;
+            prev1=curr;
+            
         }
 
         return prev1;
     }
 };
+class climestar(int n){
+    if()
+}
 
 int main() {
     Solution sol;
