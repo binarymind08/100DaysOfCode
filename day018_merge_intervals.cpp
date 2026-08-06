@@ -11,7 +11,6 @@ public:
              [](const vector<int>& a, const vector<int>& b) {
                  return a[0] < b[0];
              });
-
         vector<vector<int>> result;
         result.push_back(intervals[0]);
 
