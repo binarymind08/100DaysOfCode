@@ -6,7 +6,6 @@ public:
         backtrack(s, 0, segments, result);
         return result;
     }
-
 private:
     bool isValidSegment(const string& seg) {
         if (seg.empty() || seg.size() > 3) return false;
