@@ -8,6 +8,7 @@ public:
         if (grid.empty() || grid[0].empty()) {
             return 0;
         }
+    
 
         int rows = grid.size();
         int cols = grid[0].size();
