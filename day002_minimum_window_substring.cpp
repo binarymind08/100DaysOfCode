@@ -5,7 +5,7 @@ using namespace std;
 string minWindow(string s, string t) {
     unordered_map<char, int> need;
     for (char c : t) need[c]++;
-    
+
     int missing = t.size(), left = 0, start = 0, minLen = INT_MAX;
 
     for (int right = 0; right < s.size(); right++) {
